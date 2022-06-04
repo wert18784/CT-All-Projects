@@ -1,0 +1,7 @@
+*.jpg
+*.pickle
+*.mp4
+*.H5
+CT lane finder/exported videos/
+CT lane finder/inputs/
+Summer Research Bird Classifier CNN\old datasets/
